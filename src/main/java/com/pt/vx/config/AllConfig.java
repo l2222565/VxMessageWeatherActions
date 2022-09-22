@@ -14,7 +14,7 @@ public class AllConfig {
     private static void init(){
         //如果要多个人的话，就复制这个一遍，然后填写里面的内容。这里默认两个人,大伙应该是两个人吧（笑）
         userList.add(getUser(
-                "这个人扫码后的微信号",//扫码关注你的测试号以后，测试平台会出现TA的微信号
+                "o2zVR5xxndTTbDvcnTIV2qk6Cf4s",//扫码关注你的测试号以后，测试平台会出现TA的微信号
                 "这个人的称呼",//咋称呼这个人
                 new BirthDay(1999,8,11,false),  //这个人的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
                 new BirthDay(1999,2,15,true), //这个人对象的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
