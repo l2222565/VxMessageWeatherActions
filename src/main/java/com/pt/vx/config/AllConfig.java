@@ -31,7 +31,7 @@ public class AllConfig {
                 LocalDate.of(2020,7,8),//这个人的纪念日
                 "江苏省南京市玄武区",//这个人的详细地址
                 "南京",//这个人在的城市
-                "微信消息模板ID"));//要给这个人发送的模板ID
+                "8IsD8kJ3rzY_bFYaaucGyLGYDiFieJvJh9IhVc9ns50"));//要给这个人发送的模板ID
 
         
     }
