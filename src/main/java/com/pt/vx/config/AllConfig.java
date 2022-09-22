@@ -8,9 +8,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class AllConfig {
-    public static final String VxAppId = "微信的APPID";
-    public static final String VxAppSecret = "微信的密钥";
-    public static final String WeatherKey = "高德地图key";
+    public static final String VxAppId = "wx350f29a38f3f3f86";
+    public static final String VxAppSecret = "a8c221e4c6b9633a8db7df2670ed77c7";
+    public static final String WeatherKey = "72f73a7cd89b9cd8e88292ce716f64d7";
     private static void init(){
         //如果要多个人的话，就复制这个一遍，然后填写里面的内容。这里默认两个人,大伙应该是两个人吧（笑）
         userList.add(getUser(
